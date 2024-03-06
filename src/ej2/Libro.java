@@ -1,4 +1,4 @@
-package Ej2;
+package ej2;
 
 public class Libro {
 

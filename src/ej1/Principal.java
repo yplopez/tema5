@@ -1,4 +1,4 @@
-package Ej1;
+package ej1;
 
 public class Principal {
 
